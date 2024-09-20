@@ -23,10 +23,10 @@ Users should be able to:
 
 ### Screenshot
 #### Desktop Version:
-![Desktop Screenshot](desktop-preview.jpg)
+![Desktop Screenshot](./imagenes/desktop-preview.jpg)
 
 #### Mobile Version:
-![Mobile Screenshot](mobile-preview.jpg)
+![Mobile Screenshot](./imagenes/mobile-preview.jpg)
 
 ### Links
 - Solution URL: [GitHub Repository](https://github.com/Victormrl17/404_Not_Found_Page.git)
