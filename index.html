@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 Not Found</title>
+
+  <!-- Link a Google Fonts para la fuente Space Mono -->
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap" rel="stylesheet">
+
+  <!-- Estilos base -->
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Space Mono', monospace;
+      background-color: #fff;
+      color: #333333;
+      height: 100vh;
+      display: flex;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 2rem;
+      position: absolute;
+      /* Para fijarlo en la esquina */
+      top: 20px;
+      /* Espacio desde la parte superior */
+      left: 20px;
+      /* Espacio desde la izquierda */
+    }
+
+    .container {
+      max-width: 1440px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      width: 100%;
+      margin-top: 60px;
+      /* Espacio para el título */
+    }
+
+    .text-section {
+      max-width: 600px;
+      margin-left: 20px;
+      /* Espacio a la izquierda del texto */
+    }
+
+    h2 {
+      font-size: 3rem;
+      font-weight: 700;
+      margin-bottom: 20px;
+    }
+
+    .message {
+      font-size: 18px;
+      line-height: 1.6;
+      color: #4F4F4F;
+      margin-bottom: 20px;
+    }
+
+    a.button {
+      background-color: #333333;
+      color: #fff;
+      padding: 10px 20px;
+      text-decoration: none;
+      font-size: 16px;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+      display: inline-block;
+      margin-top: 20px;
+    }
+
+    a.button:hover {
+      background-color: #4F4F4F;
+    }
+
+    .image-container {
+      max-width: 600px;
+      width: 100%;
+    }
+
+    .image-container img {
+      width: 100%;
+      height: auto;
+    }
+
+    /* Estilos para pantallas pequeñas (móviles) */
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column;
+        text-align: center;
+        padding: 0 20px;
+      }
+
+      h2 {
+        font-size: 2rem;
+      }
+
+      .text-section {
+        max-width: 100%;
+        margin-bottom: 20px;
+      }
+
+      .image-container {
+        max-width: 300px;
+      }
+    }
+
+    @media (max-width: 375px) {
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      h2 {
+        font-size: 1.8rem;
+      }
+
+      .message {
+        font-size: 16px;
+      }
+
+      a.button {
+        font-size: 14px;
+        padding: 8px 16px;
+      }
+
+      .image-container {
+        max-width: 250px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>404 NOT FOUND</h1>
+
+  <div class="container">
+    <!-- Contenedor de la imagen -->
+    <div class="image-container">
+      <img src="scarecrow.png" alt="Scarecrow">
+    </div>
+
+    <!-- Sección de texto -->
+    <div class="text-section">
+      <h2>I have bad news for you</h2>
+      <p class="message">
+        The page you are looking for might be removed or is temporarily unavailable.
+      </p>
+      <a href="/" class="button">BACK TO HOMEPAGE</a>
+    </div>
+  </div>
+
+</body>
+
+</html>
