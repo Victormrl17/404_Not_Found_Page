@@ -1,6 +1,6 @@
 # 404 Not Found - Challenge from devChallenges.io
 
-ste proyecto es una solución al [Desafío 404 Not Found](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) en devChallenges.io. Demuestra el diseño y la funcionalidad de una página de error 404, incluyendo principios de diseño responsivo y técnicas modernas de desarrollo web.
+Este proyecto es una solución al [Desafío 404 Not Found](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) en devChallenges.io. Demuestra el diseño y la funcionalidad de una página de error 404, incluyendo principios de diseño responsivo y técnicas modernas de desarrollo web.
 
 ## Table of Contents
   - [Overview](#overview)
