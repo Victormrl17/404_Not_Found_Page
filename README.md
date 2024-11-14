@@ -5,7 +5,7 @@ Este proyecto es una solución al [Desafío 404 Not Found](https://devchallenges
 ## Table of Contents
   - [Overview](#overview)
   - [The Challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshot](#screenshot) 
   - [Links](#links)
   - [My Process](#my-process)
   - [Built With](#built-with)
