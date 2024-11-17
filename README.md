@@ -10,7 +10,7 @@ Este proyecto es una solución al [Desafío 404 Not Found](https://devchallenges
   - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
-  - [Continued Development](#continued-development)
+  - [Continued Development](#continued-development) 
   - [Useful Resources](#useful-resources)
   - [Author](#author)
 
